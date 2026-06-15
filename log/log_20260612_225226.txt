@@ -1,0 +1,299 @@
+[PLAYER] IA_DQL_mem, id: 1	[PLAYER] IA_RND, id: 2	
+-----------------------------------------------------
+[INFO] Ronda: 1 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Tres de Oros
+
+[PLAYER] IA_RND, id: 2	
+	As de Espadas
+	Siete de Copas
+	Rey de Oros
+
+[PLAY] Jugador 1: Tres de Oros
+[PLAY] Jugador 2: Rey de Oros
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 2 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Siete de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	As de Espadas
+	Siete de Copas
+	Rey de Bastos
+
+[PLAY] Jugador 1: Siete de Espadas
+[PLAY] Jugador 2: As de Espadas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 3 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Cuatro de Oros
+
+[PLAYER] IA_RND, id: 2	
+	Siete de Copas
+	Rey de Bastos
+	As de Bastos
+
+[PLAY] Jugador 2: Rey de Bastos
+[PLAY] Jugador 1: Cuatro de Oros
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 4 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Cinco de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Siete de Copas
+	As de Bastos
+	Cuatro de Copas
+
+[PLAY] Jugador 1: Cinco de Espadas
+[PLAY] Jugador 2: Siete de Copas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 5 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Caballo de Bastos
+
+[PLAYER] IA_RND, id: 2	
+	As de Bastos
+	Cuatro de Copas
+	Caballo de Copas
+
+[PLAY] Jugador 1: Caballo de Bastos
+[PLAY] Jugador 2: As de Bastos
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 6 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Seis de Bastos
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Copas
+	Caballo de Copas
+	Seis de Oros
+
+[PLAY] Jugador 2: Seis de Oros
+[PLAY] Jugador 1: Seis de Bastos
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 7 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Rey de Copas
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Copas
+	Caballo de Copas
+	Tres de Bastos
+
+[PLAY] Jugador 2: Cuatro de Copas
+[PLAY] Jugador 1: Rey de Copas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 8 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Sota de Bastos
+
+[PLAYER] IA_RND, id: 2	
+	Caballo de Copas
+	Tres de Bastos
+	Cuatro de Espadas
+
+[PLAY] Jugador 1: Sota de Bastos
+[PLAY] Jugador 2: Caballo de Copas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 9 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Cinco de Oros
+
+[PLAYER] IA_RND, id: 2	
+	Tres de Bastos
+	Cuatro de Espadas
+	Caballo de Oros
+
+[PLAY] Jugador 1: Cinco de Oros
+[PLAY] Jugador 2: Tres de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 10 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Cuatro de Bastos
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	Caballo de Oros
+	As de Copas
+
+[PLAY] Jugador 1: Cuatro de Bastos
+[PLAY] Jugador 2: As de Copas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 11 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Seis de Copas
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	Caballo de Oros
+	As de Oros
+
+[PLAY] Jugador 1: Seis de Copas
+[PLAY] Jugador 2: Caballo de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 12 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Cinco de Copas
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	As de Oros
+	Seis de Espadas
+
+[PLAY] Jugador 2: Seis de Espadas
+[PLAY] Jugador 1: Cinco de Copas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 13 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Dos de Copas
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	As de Oros
+	Cinco de Bastos
+
+[PLAY] Jugador 2: As de Oros
+[PLAY] Jugador 1: Dos de Copas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 14 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Dos de Oros
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	Cinco de Bastos
+	Dos de Espadas
+
+[PLAY] Jugador 2: Dos de Espadas
+[PLAY] Jugador 1: Dos de Oros
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 15 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Caballo de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Cuatro de Espadas
+	Cinco de Bastos
+	Siete de Bastos
+
+[PLAY] Jugador 1: Caballo de Espadas
+[PLAY] Jugador 2: Cuatro de Espadas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 16 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Tres de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Cinco de Bastos
+	Siete de Bastos
+	Dos de Bastos
+
+[PLAY] Jugador 1: Tres de Espadas
+[PLAY] Jugador 2: Dos de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 17 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Sota de Oros
+
+[PLAYER] IA_RND, id: 2	
+	Cinco de Bastos
+	Siete de Bastos
+	Tres de Copas
+
+[PLAY] Jugador 1: Sota de Oros
+[PLAY] Jugador 2: Siete de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 18 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+	Sota de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Cinco de Bastos
+	Tres de Copas
+	Siete de Oros
+
+[PLAY] Jugador 1: Sota de Espadas
+[PLAY] Jugador 2: Siete de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 19 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Cinco de Bastos
+	Tres de Copas
+
+[PLAY] Jugador 2: Cinco de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 20 |	Pinte: Siete de Oros
+[PLAYER] IA_DQL_mem, id: 1	
+	Sota de Copas
+	Rey de Espadas
+
+[PLAYER] IA_RND, id: 2	
+	Tres de Copas
+
+[PLAY] Jugador 2: Tres de Copas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+
+[WIN] Jugador: 1 gana la partida!!
+[WIN] Jugador: 1 : 63pts
+[WIN] Jugador: 2 : 51pts

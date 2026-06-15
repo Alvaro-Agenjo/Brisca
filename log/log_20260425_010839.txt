@@ -1,0 +1,300 @@
+[PLAYER] IA_DQL, id: 1	[PLAYER] HUMAN, id: 2	
+-----------------------------------------------------
+[INFO] Ronda: 1 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Copas
+	Caballo de Copas
+	As de Bastos
+
+[PLAYER] HUMAN, id: 2	
+	Siete de Copas
+	Dos de Bastos
+	Cinco de Oros
+
+[PLAY] Jugador 1: Cuatro de Copas
+[PLAY] Jugador 2: Cinco de Oros
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 2 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Caballo de Copas
+	As de Bastos
+	Sota de Espadas
+
+[PLAYER] HUMAN, id: 2	
+	Siete de Copas
+	Dos de Bastos
+	Siete de Espadas
+
+[PLAY] Jugador 1: As de Bastos
+[PLAY] Jugador 2: Siete de Espadas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 3 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Caballo de Copas
+	Sota de Espadas
+	Tres de Copas
+
+[PLAYER] HUMAN, id: 2	
+	Siete de Copas
+	Dos de Bastos
+	Rey de Copas
+
+[PLAY] Jugador 1: Caballo de Copas
+[PLAY] Jugador 2: Rey de Copas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 4 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Sota de Espadas
+	Tres de Copas
+	Cuatro de Bastos
+
+[PLAYER] HUMAN, id: 2	
+	Siete de Copas
+	Dos de Bastos
+	Sota de Copas
+
+[PLAY] Jugador 2: Siete de Copas
+[PLAY] Jugador 1: Tres de Copas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 5 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Sota de Espadas
+	Cuatro de Bastos
+	Sota de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Dos de Bastos
+	Sota de Copas
+	Caballo de Bastos
+
+[PLAY] Jugador 1: Sota de Espadas
+[PLAY] Jugador 2: Dos de Bastos
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 6 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Bastos
+	Sota de Oros
+	Siete de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Sota de Copas
+	Caballo de Bastos
+	Seis de Copas
+
+[PLAY] Jugador 2: Seis de Copas
+[PLAY] Jugador 1: Sota de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 7 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Bastos
+	Siete de Oros
+	Caballo de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Sota de Copas
+	Caballo de Bastos
+	Caballo de Espadas
+
+[PLAY] Jugador 2: Caballo de Espadas
+[PLAY] Jugador 1: Siete de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 8 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Bastos
+	Caballo de Oros
+	Dos de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Sota de Copas
+	Caballo de Bastos
+	Cuatro de Espadas
+
+[PLAY] Jugador 2: Sota de Copas
+[PLAY] Jugador 1: Caballo de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 9 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Bastos
+	Dos de Oros
+	Sota de Bastos
+
+[PLAYER] HUMAN, id: 2	
+	Caballo de Bastos
+	Cuatro de Espadas
+	Tres de Oros
+
+[PLAY] Jugador 2: Cuatro de Espadas
+[PLAY] Jugador 1: Cuatro de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 10 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Dos de Oros
+	Sota de Bastos
+	Cinco de Bastos
+
+[PLAYER] HUMAN, id: 2	
+	Caballo de Bastos
+	Tres de Oros
+	Cinco de Espadas
+
+[PLAY] Jugador 1: Sota de Bastos
+[PLAY] Jugador 2: Cinco de Espadas
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 11 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Dos de Oros
+	Cinco de Bastos
+	As de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Caballo de Bastos
+	Tres de Oros
+	Rey de Espadas
+
+[PLAY] Jugador 1: Dos de Oros
+[PLAY] Jugador 2: Tres de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 12 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Bastos
+	As de Oros
+	Rey de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Caballo de Bastos
+	Rey de Espadas
+	Seis de Oros
+
+[PLAY] Jugador 2: Seis de Oros
+[PLAY] Jugador 1: Cinco de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 13 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	As de Oros
+	Rey de Oros
+	Cuatro de Oros
+
+[PLAYER] HUMAN, id: 2	
+	Caballo de Bastos
+	Rey de Espadas
+	Tres de Bastos
+
+[PLAY] Jugador 1: Rey de Oros
+[PLAY] Jugador 2: Caballo de Bastos
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 14 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	As de Oros
+	Cuatro de Oros
+	Cinco de Copas
+
+[PLAYER] HUMAN, id: 2	
+	Rey de Espadas
+	Tres de Bastos
+	Tres de Espadas
+
+[PLAY] Jugador 2: Rey de Espadas
+[PLAY] Jugador 1: As de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 15 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cuatro de Oros
+	Cinco de Copas
+	As de Espadas
+
+[PLAYER] HUMAN, id: 2	
+	Tres de Bastos
+	Tres de Espadas
+	Rey de Bastos
+
+[PLAY] Jugador 2: Rey de Bastos
+[PLAY] Jugador 1: Cuatro de Oros
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 16 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Copas
+	As de Espadas
+	Siete de Bastos
+
+[PLAYER] HUMAN, id: 2	
+	Tres de Bastos
+	Tres de Espadas
+	Dos de Copas
+
+[PLAY] Jugador 2: Dos de Copas
+[PLAY] Jugador 1: As de Espadas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 17 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Copas
+	Siete de Bastos
+	Seis de Espadas
+
+[PLAYER] HUMAN, id: 2	
+	Tres de Bastos
+	Tres de Espadas
+	As de Copas
+
+[PLAY] Jugador 2: Tres de Espadas
+[PLAY] Jugador 1: Siete de Bastos
+[INFO] Gan� el jugador: 1
+-----------------------------------------------------
+[INFO] Ronda: 18 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Copas
+	Seis de Espadas
+	Dos de Espadas
+
+[PLAYER] HUMAN, id: 2	
+	Tres de Bastos
+	As de Copas
+	Seis de Bastos
+
+[PLAY] Jugador 1: Seis de Espadas
+[PLAY] Jugador 2: Seis de Bastos
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 19 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Copas
+	Dos de Espadas
+
+[PLAYER] HUMAN, id: 2	
+	Tres de Bastos
+	As de Copas
+
+[PLAY] Jugador 2: Tres de Bastos
+[PLAY] Jugador 1: Dos de Espadas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+[INFO] Ronda: 20 |	Pinte: Seis de Bastos
+[PLAYER] IA_DQL, id: 1	
+	Cinco de Copas
+
+[PLAYER] HUMAN, id: 2	
+	As de Copas
+
+[PLAY] Jugador 2: As de Copas
+[PLAY] Jugador 1: Cinco de Copas
+[INFO] Gan� el jugador: 2
+-----------------------------------------------------
+
+[WIN] Jugador: 2 gana la partida!!
+[WIN] Jugador: 1 : 33pts
+[WIN] Jugador: 2 : 87pts
